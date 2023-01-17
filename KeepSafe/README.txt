@@ -1,5 +1,5 @@
 
-KeepSafe was my undergraduate senior design project where my team created a self locking package box using a raspberry pi and a sensor suite. 
+KeepSafe was my undergraduate senior design project where my team created a self locking package box using a raspberry pi and a sensor suite. Code portion and PDF final report of completed project.
 
 Entire Project Abstract:
 With E-commerce quickly becoming one of the most popular forms of shopping, many people are getting more and more packages per day. 
